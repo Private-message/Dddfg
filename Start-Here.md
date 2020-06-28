@@ -1,5 +1,5 @@
 ### Set up you PowerShell Environment
-1. Run PowerShell environment as an administrator
+1. Run PowerShell environment as an administrator on your local machine
 2. Run the script [o365-setup.ps1](https://github.com/directorcia/Office365/blob/master/o365-setup.ps1)
 3. Download and install the [Powershell module for Skype for Business](https://github.com/directorcia/Office365/blob/master/o365-setup.ps1)
 4. Install the Exchange Online MFA Powershell module - [Video](https://www.youtube.com/watch?v=EnmwLqdtDCM)
