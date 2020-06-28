@@ -6,4 +6,4 @@
 6. Run the script [o365-connect-exov2.ps1](https://github.com/directorcia/Office365/blob/master/o365-connect-exov2.ps1) to verify connection to Exchange Online<br><br>
 7. Run the script [o365-mx-check.ps1](https://github.com/directorcia/Office365/blob/master/o365-mx-check.ps1) to verify that script commands work on service<br><br>
 
-[Overview Video](https://www.youtube.com/watch?v=KsE3ENgTky8)
+[![Overview video](https://img.youtube.com/vi/KsE3ENgTky8/0.jpg)](https://www.youtube.com/watch?v=KsE3ENgTky8)
