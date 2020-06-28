@@ -1,1 +1,1 @@
-Welcome to the Office365 wiki!
+# [Start Here](https://github.com/directorcia/Office365/wiki/Start-Here)
