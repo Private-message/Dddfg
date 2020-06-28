@@ -2,7 +2,7 @@
 ### Overview
 This script will deploy the Report Message, Message Header Analyzer and FindTime Outlook Add in centrally to all uses OWA and Outlook on the desktop.
 ### Source
-o365-addin-deploy.ps1(https://github.com/directorcia/Office365/blob/master/o365-addin-deploy.ps1)
+[o365-addin-deploy.ps1](https://github.com/directorcia/Office365/blob/master/o365-addin-deploy.ps1)
 ### Command line parameters
 None
 ### Prerequisites
