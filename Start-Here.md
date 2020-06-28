@@ -1,4 +1,4 @@
-### set up PowerShell Environment
+### Set up you PowerShell Environment
 1. Run PowerShell environment as an administrator
 2. Run the script [o365-setup.ps1](https://github.com/directorcia/Office365/blob/master/o365-setup.ps1)
 3. Download and install the [Powershell module for Skype for Business](https://github.com/directorcia/Office365/blob/master/o365-setup.ps1)
