@@ -10,8 +10,8 @@ None
 ### Variables
 None
 ### Operation
-When run, you will see a list of Microsoft Cloud services that you can connect to like:
-![Menu](https://ciaopsbloghome.files.wordpress.com/2020/06/image-28.png)
-You can use the CTRL and SHIFT keys to select multipel lines like so:
-![Multi select](https://ciaopsbloghome.files.wordpress.com/2020/06/image-29.png)
-Once you select the 'OK' button all teh scripts will run individually connecting you to the Microsoft Cloud services you selected.
+When run, you will see a list of Microsoft Cloud services that you can connect to like:<br><br>
+![Menu](https://ciaopsbloghome.files.wordpress.com/2020/06/image-28.png)<br><br>
+You can use the CTRL and SHIFT keys to select multipel lines like so:<br><br>
+![Multi select](https://ciaopsbloghome.files.wordpress.com/2020/06/image-29.png)<br><br>
+Once you select the 'OK' button all the scripts will run individually connecting you to the Microsoft Cloud services you selected.
