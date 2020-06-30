@@ -14,4 +14,6 @@ When run, you will see a list of Microsoft Cloud services that you can connect t
 ![Menu](https://ciaopsbloghome.files.wordpress.com/2020/06/image-28.png)<br><br>
 You can use the CTRL and SHIFT keys to select multipel lines like so:<br><br>
 ![Multi select](https://ciaopsbloghome.files.wordpress.com/2020/06/image-29.png)<br><br>
-Once you select the 'OK' button all the scripts will run individually connecting you to the Microsoft Cloud services you selected.
+Once you select the 'OK' button all the scripts will run individually connecting you to the Microsoft Cloud services you selected.<br><br>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/https://youtu.be/lpBBku4Z6tI/0.jpg)](https://youtu.be/lpBBku4Z6tI "An easier way to connect to Microsoft Cloud services with PowerShell")
+
