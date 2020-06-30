@@ -1,4 +1,4 @@
-### [Set up your PowerShell Environment](https://github.com/directorcia/Office365/wiki/Set-up-your-PowerShell-Environment)
+### [How to set up your PowerShell Environment](https://github.com/directorcia/Office365/wiki/Set-up-your-PowerShell-Environment)
 
 ### Scripts
 * [c.ps1](https://github.com/directorcia/Office365/wiki/Connect-to-Microsoft-Cloud-Services) - Connect to the Microsoft Cloud services
