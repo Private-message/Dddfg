@@ -4,9 +4,9 @@ This script will allow you to connect to various Microsoft Cloud Services using 
 ### Source
 [c.ps1](https://github.com/directorcia/Office365/blob/master/c.ps1)
 ### Command line parameters
-- debug : if -debug parameter don't prompt for input
-- noupdate : if -noupdate used then module will not be checked for more recent version
-- noprompt : if -noprompt parameter used don't prompt user for input
+- -debug = don't prompt for input
+- -noupdate  = selected module will not be checked for more recent version
+- - noprompt = don't prompt user for input
 ### Prerequisites
 1. Ensure that all the individual Microsoft Cloud connection services are in the same directory that you run this script from.
 ### Variables
